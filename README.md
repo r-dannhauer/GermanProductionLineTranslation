@@ -6,6 +6,6 @@ Changes by Fox2k11:
 
 Strings.ini Partial done
 
-Noch nicht begonnen mit achievements.ini tutorial.ini upgrade.ini 
+Noch nicht begonnen mit achievements.ini tutorial.ini
 
 alle anderen files sind soweit fertig  eine korrekturlesung müsste man noch machen.. ;) 
