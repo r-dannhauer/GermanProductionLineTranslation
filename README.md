@@ -2,4 +2,4 @@
 
 Strings.ini Partial done
 
-eine korrekturlesen müsste man noch machen.. ;) 
+alle anderen files sind soweit fertig  eine korrekturlesung müsste man noch machen.. ;) 
