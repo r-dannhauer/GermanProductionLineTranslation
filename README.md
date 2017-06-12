@@ -6,8 +6,6 @@ Dies sind die Sprachdateien für eine deutsche Übersezung von "Production Line"
 
 Changes by Fox2k11:
 
-Noch nicht begonnen mit achievements.ini tutorial.ini
-
 Aktueller Stand / Progress (13-06 00:22 Uhr GMT +2):
 - achievements: 100% Benötigt korrekturlesung
 - bodystyles 100%
@@ -17,6 +15,6 @@ Aktueller Stand / Progress (13-06 00:22 Uhr GMT +2):
 - research 100%
 - sales_categories 100%
 - strings 100%
-- tutorial 0%
+- tutorial 0% --> Work In progress --> In Bearbeitung 
 - upgrades 100%
 - Raw Materials 0% (Datei Fehlt / File Missing) (Wo soll die sein? Oo)
