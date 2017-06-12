@@ -8,7 +8,7 @@ Changes by Fox2k11:
 
 Noch nicht begonnen mit achievements.ini tutorial.ini
 
-Aktueller Stand / Progress (12-06 20:30 Uhr GMT +2):
+Aktueller Stand / Progress (13-06 00:22 Uhr GMT +2):
 - achievements: 100% Benötigt korrekturlesung
 - bodystyles 100%
 - facilities 100%
