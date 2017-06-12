@@ -10,7 +10,7 @@ Noch nicht begonnen mit achievements.ini tutorial.ini
 
 alle anderen files sind soweit fertig  eine korrekturlesung müsste man noch machen.. ;) 
 
-Aktueller Stand / Progress (11-06 19:00 Uhr GMT +2):
+Aktueller Stand / Progress (12-06 20:30 Uhr GMT +2):
 - achievements: 0%
 - bodystyles 100%
 - facilities 100%
@@ -18,7 +18,7 @@ Aktueller Stand / Progress (11-06 19:00 Uhr GMT +2):
 - productiontasks 100%
 - research 100%
 - sales_categories 100%
-- strings 50%
+- strings 100%
 - tutorial 0%
 - upgrades 100%
-- Raw Materials 0% (Datei Fehlt)
+- Raw Materials 0% (Datei Fehlt / File Missing)
