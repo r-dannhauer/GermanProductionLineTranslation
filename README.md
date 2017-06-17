@@ -14,7 +14,7 @@ Aktueller Stand / Progress (13-06 00:22 Uhr GMT +2):
 - productiontasks 100%
 - research 100%
 - sales_categories 100%
-- strings 100%
+- strings 96% (Neuer Inhalt mit 1.24)
 - tutorial 0% --> Work In progress --> In Bearbeitung 
 - upgrades 100%
-- Raw Materials 0% (Datei Fehlt / File Missing) (Wo soll die sein? Oo)
+- Raw Materials 0%
