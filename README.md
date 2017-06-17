@@ -6,7 +6,7 @@ Dies sind die Sprachdateien für eine deutsche Übersezung von "Production Line"
 
 Changes by Fox2k11:
 
-Aktueller Stand / Progress (13-06 00:22 Uhr GMT +2):
+Aktueller Stand / Progress (17.06.17 13:34 Uhr GMT +2):
 - achievements: 100% Benötigt korrekturlesung
 - bodystyles 100%
 - facilities 100%
