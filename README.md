@@ -21,4 +21,4 @@ Aktueller Stand / Progression (17.06.17 14:32 Uhr GMT +2):
 - strings 100% // Translated / Übersetzt bis zu / up-to Version 1.24 
 - tutorial 0% --> Work In progress --> In Bearbeitung 
 - upgrades 100%
-- Raw Materials 0% // Postponed until version 1.24 / Verzögert bis zur Version 1.24 
+- Raw Materials 0% // Postponed / Verzögert
