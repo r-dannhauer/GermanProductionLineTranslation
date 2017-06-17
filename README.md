@@ -10,7 +10,7 @@ Changes by Fox2k11: https://github.com/r-dannhauer/GermanProductionLineTranslati
 
 Changes by Payspro: https://github.com/r-dannhauer/GermanProductionLineTranslation/issues?q=is%3Aissue+assignee%3APayspro
 
-Aktueller Stand / Progress (17.06.17 13:34 Uhr GMT +2):
+Aktueller Stand / Progression (17.06.17 14:32 Uhr GMT +2):
 - achievements: 100%
 - bodystyles 100%
 - facilities 100%
