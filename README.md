@@ -5,7 +5,9 @@ These are the language files for a German translation for "Production Line". To 
 Dies sind die Sprachdateien für eine deutsche Übersezung von "Production Line". Bitte folgt dem Guide, um die Sprache bei euch zu aktivieren: http://steamcommunity.com/sharedfiles/filedetails/?id=943973970
 
 Changes by r-dannhauer: https://github.com/r-dannhauer/GermanProductionLineTranslation/issues?q=is%3Aissue+assignee%3Ar-dannhauer
+
 Changes by Fox2k11: https://github.com/r-dannhauer/GermanProductionLineTranslation/issues?q=is%3Aissue+assignee%3AFox2k11
+
 Changes by Payspro: https://github.com/r-dannhauer/GermanProductionLineTranslation/issues?q=is%3Aissue+assignee%3APayspro
 
 Aktueller Stand / Progress (17.06.17 13:34 Uhr GMT +2):
